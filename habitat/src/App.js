@@ -7,8 +7,10 @@ import title from './title.svg'
 function App() {
   return (
     <div className="App">
-        <img src={title}></img>
-        <img className={'TopImage'} alt={''} src={image2}></img>
+            <img alt={''} className={'Heading'} src={title}></img>
+        <a href={'https://hubs.mozilla.com/VfZdc5z/gaesteliste'}>
+        <img className={'TopImage'}  rel="noreferrer"  src={image2} alt={''}></img>
+        </a>
         <div>{introductions}</div>
             <a className="MyButton" target="_blank" rel="noreferrer" href={'https://hubs.mozilla.com/VfZdc5z/gaesteliste'}>Enter</a>
       <div className={'Element'}>
