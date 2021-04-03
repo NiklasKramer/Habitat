@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/habitat/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/habitat/static/js/main.287be2e7.chunk.js",
+    "main.js.map": "/habitat/static/js/main.287be2e7.chunk.js.map",
+    "runtime-main.js": "/habitat/static/js/runtime-main.0d29a9ed.js",
+    "runtime-main.js.map": "/habitat/static/js/runtime-main.0d29a9ed.js.map",
+    "static/js/2.f5634f4d.chunk.js": "/habitat/static/js/2.f5634f4d.chunk.js",
+    "static/js/2.f5634f4d.chunk.js.map": "/habitat/static/js/2.f5634f4d.chunk.js.map",
+    "static/js/3.5b81ef97.chunk.js": "/habitat/static/js/3.5b81ef97.chunk.js",
+    "static/js/3.5b81ef97.chunk.js.map": "/habitat/static/js/3.5b81ef97.chunk.js.map",
+    "index.html": "/habitat/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/habitat/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f5634f4d.chunk.js.LICENSE.txt": "/habitat/static/js/2.f5634f4d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/habitat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d29a9ed.js",
+    "static/js/2.f5634f4d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.287be2e7.chunk.js"
+  ]
+}
