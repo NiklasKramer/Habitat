@@ -1,10 +1,26 @@
 .App {
   text-align: center;
+  font-family: Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", serif;
+}
+
+.Heading{
+  font-size: xxx-large;
+  padding-bottom: 2%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.Element {
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+
+a:hover{
+  color: green;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
