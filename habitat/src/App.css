@@ -5,12 +5,7 @@
 
 .Heading{
   font-size: xxx-large;
-  padding-bottom: 2%;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  padding-bottom: 1%;
 }
 
 .Element {
@@ -18,9 +13,21 @@
   padding-top: 2%;
 }
 
+.TopImage {
+  max-height: 400px;
+  width: auto;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
 a:hover{
   color: green;
+}
 
+.MyButton {
+  font-size: large;
 }
 
 @media (prefers-reduced-motion: no-preference) {

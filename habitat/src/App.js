@@ -1,13 +1,19 @@
 import './App.css';
 import {Youtube} from "./Youtube.component";
+import {introductions} from "./content";
+import image2 from './image1.png'
+import title from './title.svg'
 
 function App() {
   return (
     <div className="App">
-        <div className='Heading'>{`Welcome To Habitat`}</div>
-        <div>Please make sure to run this on a Mac or Windows device. Supported browsers are Firefox and Chrome.</div>
-            <a target="_blank" href="https://hubs.mozilla.com/VfZdc5z/gaesteliste">Enter</a>
-      <div className={'Element'}><Youtube/></div>
+        <img src={title}></img>
+        <img className={'TopImage'} alt={''} src={image2}></img>
+        <div>{introductions}</div>
+            <a className="MyButton" target="_blank" rel="noreferrer" href={'https://hubs.mozilla.com/VfZdc5z/gaesteliste'}>Enter</a>
+      <div className={'Element'}>
+          <Youtube/>
+      </div>
     </div>
   );
 }
