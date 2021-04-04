@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Habitat/static/css/main.e75c3f4c.chunk.css",
-    "main.js": "/Habitat/static/js/main.19ab38d4.chunk.js",
-    "main.js.map": "/Habitat/static/js/main.19ab38d4.chunk.js.map",
+    "main.css": "/Habitat/static/css/main.ac0dbbce.chunk.css",
+    "main.js": "/Habitat/static/js/main.b62faf4b.chunk.js",
+    "main.js.map": "/Habitat/static/js/main.b62faf4b.chunk.js.map",
     "runtime-main.js": "/Habitat/static/js/runtime-main.2496aea1.js",
     "runtime-main.js.map": "/Habitat/static/js/runtime-main.2496aea1.js.map",
     "static/js/2.5630c3ed.chunk.js": "/Habitat/static/js/2.5630c3ed.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.43cd4f0a.chunk.js": "/Habitat/static/js/3.43cd4f0a.chunk.js",
     "static/js/3.43cd4f0a.chunk.js.map": "/Habitat/static/js/3.43cd4f0a.chunk.js.map",
     "index.html": "/Habitat/index.html",
-    "static/css/main.e75c3f4c.chunk.css.map": "/Habitat/static/css/main.e75c3f4c.chunk.css.map",
+    "static/css/main.ac0dbbce.chunk.css.map": "/Habitat/static/css/main.ac0dbbce.chunk.css.map",
     "static/js/2.5630c3ed.chunk.js.LICENSE.txt": "/Habitat/static/js/2.5630c3ed.chunk.js.LICENSE.txt",
     "static/media/image_botanique.36b22345.jpg": "/Habitat/static/media/image_botanique.36b22345.jpg",
     "static/media/image_fountain.cee6c0b0.jpg": "/Habitat/static/media/image_fountain.cee6c0b0.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.2496aea1.js",
     "static/js/2.5630c3ed.chunk.js",
-    "static/css/main.e75c3f4c.chunk.css",
-    "static/js/main.19ab38d4.chunk.js"
+    "static/css/main.ac0dbbce.chunk.css",
+    "static/js/main.b62faf4b.chunk.js"
   ]
 }
