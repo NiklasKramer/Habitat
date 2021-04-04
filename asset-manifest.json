@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Habitat/static/css/main.d0c7f4bc.chunk.css",
-    "main.js": "/Habitat/static/js/main.cd3c03dd.chunk.js",
-    "main.js.map": "/Habitat/static/js/main.cd3c03dd.chunk.js.map",
+    "main.js": "/Habitat/static/js/main.f06af486.chunk.js",
+    "main.js.map": "/Habitat/static/js/main.f06af486.chunk.js.map",
     "runtime-main.js": "/Habitat/static/js/runtime-main.2496aea1.js",
     "runtime-main.js.map": "/Habitat/static/js/runtime-main.2496aea1.js.map",
     "static/js/2.5630c3ed.chunk.js": "/Habitat/static/js/2.5630c3ed.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.2496aea1.js",
     "static/js/2.5630c3ed.chunk.js",
     "static/css/main.d0c7f4bc.chunk.css",
-    "static/js/main.cd3c03dd.chunk.js"
+    "static/js/main.f06af486.chunk.js"
   ]
 }
