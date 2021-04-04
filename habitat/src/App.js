@@ -18,7 +18,7 @@ function App() {
                    href={'https://hubs.mozilla.com/VfZdc5z/gaesteliste'}>E N T E R</a>
             </div>
             <div className={'Element'}>
-                <Youtube/>
+                <Youtube />
             </div>
             <img alt={'logo'} className={'Logo'} src={logo} />
 
