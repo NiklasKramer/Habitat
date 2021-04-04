@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Habitat/static/css/main.51eae54c.chunk.css",
+    "main.css": "/Habitat/static/css/main.ef634fec.chunk.css",
     "main.js": "/Habitat/static/js/main.8e84bf37.chunk.js",
     "main.js.map": "/Habitat/static/js/main.8e84bf37.chunk.js.map",
     "runtime-main.js": "/Habitat/static/js/runtime-main.2496aea1.js",
@@ -10,7 +10,7 @@
     "static/js/3.43cd4f0a.chunk.js": "/Habitat/static/js/3.43cd4f0a.chunk.js",
     "static/js/3.43cd4f0a.chunk.js.map": "/Habitat/static/js/3.43cd4f0a.chunk.js.map",
     "index.html": "/Habitat/index.html",
-    "static/css/main.51eae54c.chunk.css.map": "/Habitat/static/css/main.51eae54c.chunk.css.map",
+    "static/css/main.ef634fec.chunk.css.map": "/Habitat/static/css/main.ef634fec.chunk.css.map",
     "static/js/2.5630c3ed.chunk.js.LICENSE.txt": "/Habitat/static/js/2.5630c3ed.chunk.js.LICENSE.txt",
     "static/media/LEAVINGvenndiagram.9dd31331.png": "/Habitat/static/media/LEAVINGvenndiagram.9dd31331.png",
     "static/media/image_botanique.36b22345.jpg": "/Habitat/static/media/image_botanique.36b22345.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.2496aea1.js",
     "static/js/2.5630c3ed.chunk.js",
-    "static/css/main.51eae54c.chunk.css",
+    "static/css/main.ef634fec.chunk.css",
     "static/js/main.8e84bf37.chunk.js"
   ]
 }
